@@ -16,4 +16,4 @@
 - [ ] [Supercharged Coding with GenAI](./notes/01_supercharged_coding_with_genai.md)
   - [ ] [Foundations for Coding with GenAI (Part 1)](./notes/02_foundations_for_coding_with_genai_part_1.md)
     - [ ] [Current Opportunity for GenAI](./notes/03_current_opportunity_for_genai.md)
-      - [ ] []()
+      - [ ] [Changing Software Engineering](./notes/04_changing_software_engineering.md)
