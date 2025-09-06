@@ -1,9 +1,11 @@
-# simple-action
-Repo to demonstrate creating and navigating for Workflows associated with GitHub Actions 
+# Supercharged Coding with GenAI
 
-[![CI](https://github.com/cuongpiger/testing/actions/workflows/simple-proj.yml/badge.svg)](https://github.com/cuongpiger/simple-action/testing/workflows/simple-proj.yml)
+<hr>
 
+###### 🛠️ References
 
-Update docs
-Test github pull request number in github action
-Testing hub
+- [GitHub Repository](https://github.com/PacktPublishing/Supercharged-Coding-with-Gen-AI)
+
+<br><br>
+
+###### 🌈 Table of contents
