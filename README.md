@@ -9,3 +9,8 @@
 <br><br>
 
 ###### 🌈 Table of contents
+
+
+###### 🧠 Mindmap
+
+![](./assets/mindmap.png)
